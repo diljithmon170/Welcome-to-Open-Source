@@ -49,7 +49,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
         <td align="center">
                 <a href="https://github.com/diljithmon170">
-                    <img src="https://github.com/account" width="100px;"
+                    <img src="https://avatars.githubusercontent.com/u/121356051?v=4" width="100px;"
                         alt="Diljith Dayanandan" />
                     <br />
                     <sub>
